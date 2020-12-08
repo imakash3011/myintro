@@ -28,3 +28,13 @@
   color: red;
 }
 
+.icon{
+  width: 45px;
+  /* display: flex; */
+  padding: 7px;  
+  margin: 10px;
+  border: none;
+}
+.mycard{
+  border:none;
+}
