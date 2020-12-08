@@ -1,6 +1,7 @@
 import React from 'react'
 import mypic from "../src/images/alien.jpg"
 import {NavLink} from "react-router-dom"
+import Resume from "../src/images/Resume.pdf"
 
 const Home = ()=>{
     return(
@@ -20,12 +21,12 @@ const Home = ()=>{
                             <span className="logo"> Developer </span> 
                             </h2>
                             <div  className="mt-3">
-                            <NavLink to="/" className="btn btn-outline-danger" > Download CV</NavLink>
+                            <NavLink to="/" class="btn btn-outline-danger" >Download CV </NavLink>
                             </div>
                         </div>
 
                             <div className=" col-lg-6 order-1 order-lg-2 header-img">
-                            <img src={mypic} className="img-fluid animated picSize" alt="My Image"/>
+                            <img src={mypic} className="img-fluid  picSize" alt="My Image"/>
                             </div>
                             
                         </div>
