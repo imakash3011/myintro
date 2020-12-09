@@ -14,9 +14,11 @@ const Home = ()=>{
 
                     <div className="row">  
                         <div className="col-md-6  pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
+                        
                         <h5>Hello & Welcome</h5>
+                        <h1 className="my-3 ">I'm <bold className="logo"> Akash Patel</bold></h1>
                             <h2 className="my-3 ">
-                            I am <span className="logo"> Learner </span> |
+                            I'm <span className="logo"> Learner </span> |
                             <span className="logo">  Programmer  </span> |
                             <span className="logo"> Developer </span> 
                             </h2>
