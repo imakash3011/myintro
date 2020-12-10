@@ -8,6 +8,7 @@ import About from './About'
 import Contact from './Contact'
 import Footer from './Footer'
 import { Route, Switch } from 'react-router-dom';
+import Experience from './Experience';
 
 
 
@@ -19,6 +20,7 @@ return (
   <Route exact path='/' component={Home}/>
   <Route exact path='/about' component={About}/>
   <Route exact path='/contact' component={Contact}/>
+  <Route exact path='/experience' component={Experience}/>
   </Switch>
   <Footer/>
   </>

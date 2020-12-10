@@ -9,7 +9,7 @@ const Navbar = ()=>{
             <div className="col-10 mx-auto">
 
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
-            <NavLink  exact className="navbar-brand" to="#"><strong className="logo ml-3"><strong>Akash  Patel</strong></strong></NavLink>
+            <NavLink  exact className="navbar-brand" to="/"><strong className="logo ml-3"><strong>Akash</strong></strong></NavLink>
             
             <button className="navbar-toggler  mr-3" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span className="navbar-toggler-icon"></span>
@@ -25,6 +25,10 @@ const Navbar = ()=>{
 
                 <li className="nav-item">
                     <NavLink activeClassName='menu_active' exact className="nav-link" to="/about">About</NavLink>
+                </li>
+
+                <li className="nav-item">
+                <NavLink activeClassName='menu_active' exact className="nav-link" to="/experience">Experience</NavLink>
                 </li>
 
                 <li className="nav-item">

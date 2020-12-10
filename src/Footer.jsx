@@ -7,7 +7,7 @@ const Footer =()=>{
             <div className="row">
                 <div className="col-10 mx-auto">
 
-                <footer className="bg-light text-center mb-0">
+                <footer className="bg-light mt-3 text-center mb-0">
                 <p>Made with  &#x1F496; by Akash Patel </p>
                 </footer>
 

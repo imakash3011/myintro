@@ -1,15 +1,15 @@
 const Sdata = [
     {
-        title: "Web Development 1",
-        textdata : "Some quick example text to build ."
+        title: "Undergraduate  ",
+        textdata : "Gautam Buddha University, Greater Noida (7.7 CGPA) "
     },
     {
-        title: "Web Development 2",
-        textdata : "Some quick example text to build ."
+        title: "Intermediate",
+        textdata : "Private candidate CBSE Board (2017)"
     },
     {
-        title: "Web Development 3",
-        textdata : "Some quick example text to build ."
+        title: "High School",
+        textdata : "Nav Jeevan Mission School, Kasia (9.4 CGPA)"
     }
 ]
 

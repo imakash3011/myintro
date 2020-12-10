@@ -12,10 +12,10 @@ import linkedin from "../src/images/linkedin1.png"
 const Contact = () => {
   return (
     <>
-      <section id="header" className="d-flex align-items-center ">
-        <div className="container-fluid ">
-            <div className="col-10 mx-auto">
-            <h1 className="text-center logo">Contact Me </h1>
+      <section  className="d-flex align-items-center ">
+        <div className="container-fluid contbody ">
+            <div className="col-10 mt-4 mx-auto">
+            <h1 className="text-center mt-4 logo">Contact Me </h1>
             <p className="text-center col-4 mx-auto mt-4  ">Feel free to contact me if you wish to know more about me, just drop
             a message to anyone one of the following social media platform.</p>
 
