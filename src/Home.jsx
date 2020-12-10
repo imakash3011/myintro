@@ -7,7 +7,7 @@ const Home = ()=>{
       
     return(
       <>
-      <section id="header" className="d-flex align-items-center">
+      <section  className="d-flex contbody align-items-center">
             <div className="container-fluid ">
                 <div className="row">
                 
@@ -24,8 +24,8 @@ const Home = ()=>{
                             <span className="logo"> Developer </span> 
                             </h2>
                             <div  className="mt-3">
-                            <NavLink to="/" class="btn btn-outline-danger" >Download CV </NavLink>
-                              
+                            <a class="btn btn-outline-danger" href={Resume} download>Download CV
+                            </a>
 
                             </div>
                         </div>
