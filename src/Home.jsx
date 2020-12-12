@@ -1,5 +1,5 @@
 import React from 'react'
-import mypic from "../src/images/alien.jpg"
+import mypic from "../src/images/rectImg2.png"
 import {NavLink} from "react-router-dom"
 import Resume from "../src/images/Resume.pdf"
 

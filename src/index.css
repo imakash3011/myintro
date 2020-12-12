@@ -135,6 +135,68 @@ a:link {
 
 .contbody{
   width: 100%;
-  height: 80vh;
-  margin-top: 53px;
+  height: 100%;
+  margin-top: 33px;
+}
+
+.social{
+  margin-top: 50px;
+}
+
+.java{
+  width: 70%;
+  animation: java 2s;
+}
+
+.python{
+  width: 55%;
+  animation: python 2s;
+}
+
+.web{
+  width: 53%;
+  animation: python 2s;
+}
+
+.science{
+  width: 53%;
+  animation: python 2s;
+}
+
+
+
+@keyframes java{
+  0%{
+    width: 0%;
+  },
+  100%{
+    width: 70%;
+  }
+}
+
+@keyframes python{
+  0%{
+    width: 0%;
+  },
+  100%{
+    width: 55%;
+  }
+}
+
+@keyframes web{
+  0%{
+    width: 0%;
+  },
+  100%{
+    width: 53%;
+  }
+}
+
+@keyframes science{
+  0%{
+    width: 0%;
+  },
+  100%{
+    width: 53%;
+  }
 }
