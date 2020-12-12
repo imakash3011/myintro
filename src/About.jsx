@@ -1,5 +1,5 @@
 import React from 'react'
-import Sdata from './Sdata'
+import Sdata from './Schdata'
 import Card from './Card'
 
 const About = () =>{
@@ -11,11 +11,11 @@ const About = () =>{
                 <div className="col-10 mx-auto">
                 <h3 className="text-center mt-4 logo">About Me</h3>
                 <p className=" col-8 mx-auto mycontent"> 
-                I am a Computer Science Engineering student at Gautam Buddha University, Greater Noida, India.
-                I am a Web Developer, Data Science and Machine Learning enthusiast. I have also a huge interest in 
-                Open-Source. I like programming and learning about new technologies. Apart from these stuff i like playing 
-                cricket, batminton.
-
+                I am a computer science and engineering student at Gautam Buddha University, Greater Noida, India.
+                I like programming and learning about new technologies. I'm Open-Source enthusiast. 
+                Seeking an entry level job in Data Science or Software Development field in a reputed company where 
+                i can enhance my skills and meet the company's goals and objectives with full integrity and zeal.
+                Apart from these stuff i like playing cricket & batminton and listening music.
                 </p>
                 <h3 className="text-center mt-4 logo">Education</h3>
 

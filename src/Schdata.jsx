@@ -1,4 +1,4 @@
-const Sdata = [
+const Schdata = [
     {
         title: "Undergraduate  ",
         textdata : "Gautam Buddha University, Greater Noida (7.7 CGPA) "
@@ -13,4 +13,4 @@ const Sdata = [
     }
 ]
 
-export default Sdata;
+export default Schdata;

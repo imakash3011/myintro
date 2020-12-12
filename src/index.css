@@ -12,7 +12,6 @@
 }
 
 .logo {
-
   color: red;
   text-decoration: none;
 }
@@ -21,18 +20,11 @@ a:link {
   text-decoration: none;
 }
 
-
-#header{
-  width: 100%;
-  height: 80vh;
-  margin-top: 53px;
+.menu_active {
+  font-weight: bold;
+  border-bottom: 2px solid red;
 }
 
-
-.navbar a:hover{
-  font-size: 1.3rem;
-  color: red;
-}
 
 .icon{
   width: 45px;
@@ -64,8 +56,6 @@ a:link {
 
 .timeline-item-content {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
-    /* border-radius: 25px; */
-    /* background-color: #fff; */
     display: flex;
     flex-direction: column;
     align-items: flex-end;

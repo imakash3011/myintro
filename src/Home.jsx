@@ -1,13 +1,12 @@
 import React from 'react'
 import mypic from "../src/images/rectImg2.png"
-import {NavLink} from "react-router-dom"
 import Resume from "../src/images/Resume.pdf"
 
 const Home = ()=>{
       
     return(
       <>
-      <section  className="d-flex contbody align-items-center">
+      <section id="photo1" className="d-flex contbody  align-items-center">
             <div className="container-fluid ">
                 <div className="row">
                 
@@ -31,7 +30,7 @@ const Home = ()=>{
                         </div>
 
                             <div className=" col-lg-6 order-1 order-lg-2 header-img">
-                            <img src={mypic} className="img-fluid  picSize" alt="My Image"/>
+                            <img src={mypic} className="img-fluid  picSize" alt="My Profile Pic"/>
                             </div>
                             
                         </div>
