@@ -129,6 +129,11 @@ a:link {
   margin-top: 33px;
 }
 
+.homebody{
+  width: 100%;
+  height: 85vh;
+}
+
 .social{
   margin-top: 50px;
 }

@@ -1,12 +1,12 @@
 import React from 'react'
-import mypic from "../src/images/rectImg2.png"
+import mypic from "../src/images/main4.png"
 import Resume from "../src/images/Resume.pdf"
 
 const Home = ()=>{
       
     return(
       <>
-      <section id="photo1" className="d-flex contbody  align-items-center">
+      <section id="photo1" className="d-flex homebody  align-items-center">
             <div className="container-fluid ">
                 <div className="row">
                 
