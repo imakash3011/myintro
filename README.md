@@ -20,3 +20,6 @@ Experience page shows my different skills , projects, internship etc.
 Contact Page contains the various social media platform link that i use.
 You will also find different ways to contact with me.
 
+
+Licensed under MIT license.
+
