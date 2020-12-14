@@ -22,7 +22,7 @@ const Contact = () => {
             <div class="card text-center  col-6 mx-auto mt-4">
             <div class="card-body ">
                 <h5 class="card-title logo">Glad to see you here</h5>
-                <p class="card-text ">If you like my work and want to hire me, than kindly click on following button to send a mail to me.</p>
+                <p class="card-text ">If you like my work and want to hire me, then kindly click on following button to send a mail to me.</p>
                 <a href="mailto: imakashpatel3011@gmail.com" class="btn btn-outline-danger">Hire Me</a>
             </div>
             </div>
