@@ -12,10 +12,10 @@ const About = () =>{
                 <h3 className="text-center mt-4 logo">About Me</h3>
                 <p className=" col-8 mx-auto mycontent"> 
                 I am a computer science and engineering student at Gautam Buddha University, Greater Noida, India.
-                I like programming and learning about new technologies. I'm Open-Source enthusiast. 
-                Seeking an entry level job in Data Science or Software Development field in a reputed company where 
-                i can enhance my skills and meet the company's goals and objectives with full integrity and zeal.
-                Apart from these stuff i like playing cricket & badminton and listening music.
+                I like programming and learning about new technologies. I'm Machine Learning and Data Science enthusiast. 
+                Seeking an entry level job in Data Science field in a reputed company where 
+                I can enhance my knowledge, skill and meet the company's goals and objectives with full integrity and zeal.
+                Apart from these stuff i like playing cricket , batminton and listening music.
                 </p>
                 <h3 className="text-center mt-4 logo">Education</h3>
 
@@ -28,8 +28,6 @@ const About = () =>{
                     />
                   })
                 }
-      
-
                 </div>
                 
             </div>
