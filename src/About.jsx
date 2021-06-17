@@ -15,7 +15,7 @@ const About = () =>{
                 I like programming and learning about new technologies. I'm Machine Learning and Data Science enthusiast. 
                 Seeking an entry level job in Data Science field in a reputed company where 
                 I can enhance my knowledge, skill and meet the company's goals and objectives with full integrity and zeal.
-                Apart from these stuff i like playing cricket , batminton and listening music.
+                Apart from these stuff i like playing cricket , badminton and listening music.
                 </p>
                 <h3 className="text-center mt-4 logo">Education</h3>
 

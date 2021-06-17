@@ -10,7 +10,7 @@ const Experience = () =>{
           <div className="row">
               <div className="col-10 mx-auto">
               <h3 className="text-center mt-4 logo">Technical Skills </h3>
-              <p className=" col-8 mx-auto mycontent mt-4 ">Following are the major technical skill that i have, apart from that i have also worked on React, Sql, MySql, MongoDB, github, working on linux environment etc. . I have non-technical skills like working with team, good communication skills, 
+              <p className=" col-8 mx-auto mycontent mt-4 ">Following are the major technical skill that I have, apart from that I have also worked on React, Sql, MySql, MongoDB, github, working on linux environment etc. . I have non-technical skills like working with team, good communication skills, 
               problem solving skill , time management skill and many more. </p>
 
               <p className=" col-8 java mx-auto mycontent"> Java

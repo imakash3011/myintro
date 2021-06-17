@@ -18,9 +18,9 @@ const Home = ()=>{
                         <h5>Hello & Welcome</h5>
                         <h1 className="my-3 ">My name is <bold className="logo"> Akash Patel</bold></h1>
                             <h2 className="my-3 ">
-                            I'm <span className="logo"> Learner </span> |
-                            <span className="logo">  Programmer  </span> |
-                            <span className="logo"> Developer </span> 
+                            I'm <span className="logo">Learner </span> |
+                             <span className="logo">  Programmer  </span> |
+                            <span className="logo"> DS & ML Enthusiast </span> 
                             </h2>
                             <div  className="mt-3">
                             <a class="btn btn-outline-danger" href={Resume} download>Download CV
