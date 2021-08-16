@@ -1,9 +1,9 @@
 ## <center > Personal portfolio website </center>
 
 
-* It is my personal portfolio website made using react.
+* It is my personal portfolio website made using **React**, **HTML**, **CSS** and **Boostrap**.
 * This website will reflect my whole journey till now.
-* It have Different section like Home, About, Experience and Contact.
+* It have Different section like **Home**, **About**, **Experience** and **Contact**.
 
 _________________
 
@@ -36,6 +36,12 @@ You will also find different ways to contact with me.
 
 
 **Licensed under MIT license.**
+
+_________________
+
+**Author**
+
+Akash Patel
 
 _________________
 
